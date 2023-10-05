@@ -22,6 +22,6 @@ The main files are presented and discussed below. One need just to set them up a
 	Helpful functions called by the other files and functions.
 
 Authors:
-Lucas Guerreiro
-Filipi Nascimento
-Diego Amancio
+Lucas Guerreiro;
+Filipi Nascimento;
+Diego Amancio.
