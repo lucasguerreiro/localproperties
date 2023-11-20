@@ -4,7 +4,7 @@ This repository explores local properties in complex networks. The main objectiv
 The main files are presented and discussed below. One need just to set them up and run in order to reproduce the results.
 
 - gen_nets.py:
-	Functions to generate the network files.
+	Functions to generate the artificial network files.
 
 - gen_walks.py:
 	Functions to perform walks on the nets and store the walks sequences.
